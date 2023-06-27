@@ -1,0 +1,10 @@
+__________XYZ Airlines__________
+__________Ticket________________
+________________________________
+Customer ID:2
+Customer Name:Irshad
+Customer Gender:Male
+	Description
+
+Destination		India
+Flight cost :		10000
